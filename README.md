@@ -1,5 +1,9 @@
 # Hotel_app
 
+The **QuickStay luxury hotel booking platform** is built using **ReactJS** with **Vite** as the build tool and **Tailwind CSS** for styling. Vite significantly improves the development experience by offering faster cold starts and hot module replacement, making it ideal for building performant React applications. React is used to create modular, reusable components such as hotel listings, authentication forms, and testimonials, each dynamically rendering content through props and state. **Tailwind CSS** enhances the visual design with its utility-first approach, enabling rapid styling of components directly in JSX. The interface showcases modern UI elements such as responsive grids, hover effects, smooth transitions, and rounded cards, all styled using Tailwind classes. Vite and Tailwind together help maintain a clean developer workflow and ensure the app remains lightweight and fast-loading. This combination creates a seamless, responsive, and user-friendly experience across devices, making the QuickStay platform both efficient to develop and delightful to use.
+
+
+
 ![Screenshot (314)](https://github.com/user-attachments/assets/0c0bff36-7426-424d-b27a-5aa709a703d6)
 
 
